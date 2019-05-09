@@ -1,0 +1,114 @@
+body{
+		background-image:linear-gradient(black,white);
+		margin:0px;
+		padding:0px;
+	}
+	#bannerdiv{
+		background-image:url(images/a.jpg);
+		height:150px;
+		width:1000px;
+		margin:auto;
+	
+	}
+	#bannerdiv h1{
+		text-align:center;
+		color:red;
+		padding:50px;
+		text-decoration:underline;
+	}
+	#menudiv{
+		background-color:lightyellow;
+		height:50px;
+		width:1000px;
+		margin:auto;
+	}
+	
+	#menudiv table{
+		background-color:maroon;
+		height:100%;
+		width:70%;
+		
+	}
+	
+	#menudiv td{
+		text-align:center;
+		background-color:;
+	}
+	
+	#menudiv a{
+		color:white;
+		text-decoration:none;
+	}
+	#imagediv{
+		//background-color:white;
+		background-image:url("images/image.jpg");
+		height:500px;
+		width:1000px;
+		margin:auto;
+		background-size:1000px, 500px;
+	}
+	
+	#lowerdiv{
+		//background-color:black;
+		height:200px;
+		width:1000px;
+		margin:auto;
+		
+	}
+	
+	#lower_leftdiv{
+		height:200px;
+		width:33%;
+		background-image:url("images/b.jpg");
+		background-size:330px, 200px;
+		float:left;
+		
+	}
+	#lower_centerdiv{
+		height:200px;
+		width:34%;
+		background-image:url("images/c.jpg");
+		background-size:330px, 200px;
+		float:left;
+		
+	}
+	#lower_rightdiv{
+		height:200px;
+		width:33%;
+		background-image:url("images/d.jpg");
+		background-size:330px, 200px;
+		float:right;
+		
+	}
+	#footerdiv{
+		height:100px;
+		width:1000px;
+		margin:auto;
+		background-color:maroon;
+		
+	}
+	
+	#aboutmediv{
+		height:500px;
+		width:1000px;
+		margin:auto;
+		background-color:lightyellow;
+		
+		
+	}
+	
+	
+	p{
+		color:black;
+		font-family:Times New Roman, Georgia, Algerian;
+		font-size:20px;
+		padding:10px;
+		
+	}
+	
+	#gallerydiv{
+		height:500px;
+		width:1000px;
+		margin:auto;
+		
+	}
